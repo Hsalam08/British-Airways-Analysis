@@ -1,4 +1,4 @@
-# **British Airways Customer Analysis Project**
+# **British Airways Customer Analysis Project -Tableau**
 
 ## **Project Overview**
 This project presents a comprehensive analysis of **British Airways** customer ratings and reviews from **March 2016 to October 2023**. The primary goal is to assess key aspects of the airline's services, including entertainment, food and beverages, and overall customer satisfaction. Additionally, this analysis compares **British Airways** with **Qatar Airways** to evaluate performance and identify areas for improvement.
