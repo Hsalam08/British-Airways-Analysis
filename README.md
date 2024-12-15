@@ -1,32 +1,47 @@
-# British Airways Analysis Project
+# **British Airways Customer Analysis Project**
 
-## Project Overview
-This project involves an in-depth analysis of British Airways' customer reviews and ratings. The goal was to assess different aspects of the airline's services, including entertainment, food and beverage, and overall customer experience, and to compare these ratings with Qatar Airways to identify areas for improvement.
+## **Project Overview**
+This project presents a comprehensive analysis of **British Airways** customer ratings and reviews from **March 2016 to October 2023**. The primary goal is to assess key aspects of the airline's services, including entertainment, food and beverages, and overall customer satisfaction. Additionally, this analysis compares **British Airways** with **Qatar Airways** to evaluate performance and identify areas for improvement.
 
-## Dataset
-The data was obtained from publicly available sources on Kaggle, specifically:
-- **BA Reviews**: Customer reviews of British Airways covering various aspects of their service.
-- **Countries**: Geographic insights used for analysis.
+## **Data Sources**
+The data used for this analysis was obtained from publicly available sources on **Kaggle**:
+- **BA Reviews**: A collection of customer reviews for British Airways, focusing on various aspects of service such as cabin crew, food, entertainment, etc.
+- **Countries**: Geographical insights for visualising customer feedback across different regions.
 
-## Key Features
-- **Ratings Analysis**: The project analysed customer ratings for various service categories, including cabin staff, food, entertainment, etc.
-- **Comparison with Qatar Airways**: The ratings for British Airways are compared with Qatar Airways to highlight performance differences.
-- **Interactive Dashboard**: An interactive Tableau dashboard was created to visually represent the ratings and make data-driven insights easily accessible.
+## **Key Features**
+- **Customer Rating Analysis**: Detailed breakdown and analysis of customer ratings from 2016 to 2023, covering multiple service categories.
+- **Comparative Analysis**: Ratings for British Airways are compared to Qatar Airways across similar service metrics.
+- **Interactive Data Visualisation**: An engaging and interactive **Tableau dashboard** designed to present insights in a user-friendly manner.
 
-## Methodology
-1. **Data Acquisition**: Data was sourced from Kaggle and cleaned for analysis.
-2. **Exploratory Data Analysis**: Key factors affecting customer satisfaction were identified through detailed analysis of the review data.
-3. **Data Visualization**: Tableau was used to create a dynamic dashboard showcasing British Airways' ratings over time and comparing them with Qatar Airways.
-4. **Insights**: Key insights into the performance of British Airways across various service categories were drawn.
+## **Methodology**
+### 1. **Data Collection**
+   - The project leverages data from Kaggle, with the British Airways reviews covering a span from **March 2016 to October 2023**. Data was carefully pre-processed and cleaned to ensure accuracy.
 
-## Results
-- British Airways' overall rating was 4.2/5 over a 7-year period, indicating high customer satisfaction.
-- Reviews for entertainment (1.4/5) and food and beverages (2.4/5) showed a significant gap compared to Qatar Airways, which scored 4/5 and 4.05/5, respectively.
-- The analysis suggested that improvements in areas such as food quality and entertainment services could boost customer satisfaction.
+### 2. **Exploratory Data Analysis (EDA)**
+   - A thorough analysis of the data was performed to understand trends, identify key service categories, and detect any patterns in customer feedback over the years.
 
-## Conclusion
-The analysis provides valuable insights into the strengths and weaknesses of British Airways' customer service. It also highlights the areas where the airline can improve by addressing specific customer concerns, particularly in food and entertainment services.
+### 3. **Data Visualisation & Dashboard Development**
+   - An **interactive Tableau dashboard** was created to showcase the ratings trends over time, with comparative analysis against **Qatar Airways**. The dashboard allows users to explore various aspects of the data in an intuitive, easy-to-understand format.
 
-## Tools Used
-- **Tableau**: For creating the interactive dashboard.
-- **Kaggle**: For sourcing the datasets.
+### 4. **Insights Extraction**
+   - Key insights were drawn to highlight areas where British Airways excels and where improvements are needed.
+
+## **Results**
+- **Overall Rating (2016-2023)**: British Airways maintained an average customer rating of **4.2/5**, indicating a strong level of customer satisfaction over the seven-year period.
+- **Entertainment Rating**: British Airways scored **1.4/5** for entertainment, showing a significant gap when compared to **Qatar Airways**' rating of **4/5**.
+- **Food and Beverage Rating**: British Airways received a **2.4/5** rating, while **Qatar Airways** scored **4.05/5**, highlighting areas where British Airways could improve service quality.
+
+## **Key Findings**
+- **Customer Satisfaction**: Despite fluctuations, British Airways' overall customer satisfaction remains relatively high with an average of **4.2/5**, demonstrating consistent service quality.
+- **Comparative Performance**: Qatar Airways consistently outperformed British Airways in key areas like food and entertainment, emphasising opportunities for improvement.
+
+## **Tools & Technologies Used**
+- **Tableau**: For creating an interactive and dynamic dashboard for visualising customer ratings.
+- **Kaggle**: For sourcing datasets and exploring available review data.
+
+## **Conclusion**
+This analysis highlights the strengths and areas for improvement within **British Airways** based on customer feedback over a period of seven years. The airline maintains high levels of customer satisfaction but there is significant room for improvement in areas like food quality and entertainment services. This project provides actionable insights that could help improve the customer experience and elevate the airline’s service offerings.
+
+![image](https://github.com/user-attachments/assets/87ee2bdc-336d-4349-bf9d-3d5bb63428ba)
+![image](https://github.com/user-attachments/assets/ca9c673a-2518-43f0-b7ec-df5dcbe522fc)
+
