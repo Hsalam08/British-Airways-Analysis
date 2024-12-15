@@ -9,7 +9,7 @@ The data was obtained from publicly available sources on Kaggle, specifically:
 - **Countries**: Geographic insights used for analysis.
 
 ## Key Features
-- **Ratings Analysis**: The project analyses customer ratings for various service categories, including cabin staff, food, entertainment, etc.
+- **Ratings Analysis**: The project analysed customer ratings for various service categories, including cabin staff, food, entertainment, etc.
 - **Comparison with Qatar Airways**: The ratings for British Airways are compared with Qatar Airways to highlight performance differences.
 - **Interactive Dashboard**: An interactive Tableau dashboard was created to visually represent the ratings and make data-driven insights easily accessible.
 
